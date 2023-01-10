@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>left_arrow_icn</title>
-    <g id="UI_Kit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="ui_kit/icons" transform="translate(-531.000000, -480.000000)" fill-rule="nonzero">
-            <g id="body_left_arrow_icn@3x" transform="translate(531.000000, 480.000000)">
-                <rect id="left_arrow_icn" fill="#E3D4D4" opacity="0" x="0" y="0" width="20" height="20"></rect>
-                <polygon id="icn" fill="#FFFFFF" transform="translate(9.000000, 10.000000) scale(-1, 1) rotate(90.000000) translate(-9.000000, -10.000000) " points="9 7 14 13 4 13"></polygon>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" version="1.1" viewBox="0 0 20 20"><title>left_arrow_icn</title><g id="UI_Kit" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="ui_kit/icons" fill-rule="nonzero" transform="translate(-531.000000, -480.000000)"><g id="body_left_arrow_icn@3x" transform="translate(531.000000, 480.000000)"><rect id="left_arrow_icn" width="20" height="20" x="0" y="0" fill="#E3D4D4" opacity="0"/><polygon id="icn" fill="#FFF" points="9 7 14 13 4 13" transform="translate(9.000000, 10.000000) scale(-1, 1) rotate(90.000000) translate(-9.000000, -10.000000)"/></g></g></g></svg>
